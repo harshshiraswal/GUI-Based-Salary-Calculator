@@ -36,13 +36,13 @@ This was my **first ever programming project** created during vocational trainin
 ## 📸 Screenshots
 
 ### Main Interface
-![Salary Calculator Main Window](images/main-interface.png)
+![Main Interface](images/main_interface.png)
 
 ### Calculation Results
-![Salary Calculation Results](images/calculation-results.png)
+![Calculation Results](images/calculation_results.png)
 
-### Full Application View  
-![Full Application View](images/full-app-view.png)
+### Full Application View
+![Full Application View](images/full_app_view.png)
 
 ## 🚀 How to Run
 
