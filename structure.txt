@@ -1,0 +1,7 @@
+salary-calculator/
+│
+├── salary_calculator.py    # Your main code (keep as is)
+├── README.md              # Project documentation
+├── LICENSE                # Choose a license
+├── .gitignore            # Files to ignore
+└── images/               # Screenshots folder (optional)
