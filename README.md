@@ -44,6 +44,32 @@ This was my **first ever programming project** created during vocational trainin
 ### Calculation Results
 ![Calculation Results](images/calculation_results.png)
 
+## 📸 Screenshots
+
+![Main Interface](images/main_interface.png)
+![Calculation Results](images/calculation_results.png)
+![Full Application View](images/full_app_view.png)
+
+## 🎯 Learning Outcomes
+
+This project was a significant learning experience that helped me develop:
+
+- **GUI Application Development**: Learned to create desktop applications with Tkinter
+- **Frontend-Backend Integration**: Successfully connected user interface with calculation logic
+- **Tkinter Framework**: Mastered Python's built-in GUI toolkit and widget management
+- **Real-time Calculations**: Implemented instant computation without database dependency
+- **Problem-solving in Unfamiliar Codebase**: Adapted to and understood existing Java code to create a Python solution
+
+## 🤝 Contribution
+
+This project is maintained as a historical record of my first programming endeavor. The code is preserved in its original form to showcase my learning journey and growth as a developer.
+
+*Note: The code remains unmodified to maintain its authenticity as my first project.*
+
+---
+
+*Created with 💻 during Summer Vocational Training at Opto Electronics Factory (OLF) (MoD, Govt. of India)*
+
 ## 🚀 How to Run
 
 1. Ensure you have Python installed
