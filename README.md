@@ -44,12 +44,6 @@ This was my **first ever programming project** created during vocational trainin
 ### Calculation Results
 ![Calculation Results](images/calculation_results.png)
 
-## 📸 Screenshots
-
-![Main Interface](images/main_interface.png)
-![Calculation Results](images/calculation_results.png)
-![Full Application View](images/full_app_view.png)
-
 ## 🎯 Learning Outcomes
 
 This project was a significant learning experience that helped me develop:
