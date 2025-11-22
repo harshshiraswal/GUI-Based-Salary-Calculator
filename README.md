@@ -33,6 +33,17 @@ This was my **first ever programming project** created during vocational trainin
 - **Backend**: Pure Python calculations
 - **Frontend**: Tkinter widgets
 
+## 📸 Screenshots
+
+### Main Interface
+![Salary Calculator Main Window](images/main-interface.png)
+
+### Calculation Results
+![Salary Calculation Results](images/calculation-results.png)
+
+### Full Application View  
+![Full Application View](images/full-app-view.png)
+
 ## 🚀 How to Run
 
 1. Ensure you have Python installed
