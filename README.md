@@ -35,14 +35,14 @@ This was my **first ever programming project** created during vocational trainin
 
 ## 📸 Screenshots
 
+### Full Application View
+![Full Application View](images/full_app_view.png)
+
 ### Main Interface
 ![Main Interface](images/main_interface.png)
 
 ### Calculation Results
 ![Calculation Results](images/calculation_results.png)
-
-### Full Application View
-![Full Application View](images/full_app_view.png)
 
 ## 🚀 How to Run
 
